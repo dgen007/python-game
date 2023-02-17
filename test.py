@@ -1,2 +1,1 @@
-test.py
-./day7/__pycache__
+import random
